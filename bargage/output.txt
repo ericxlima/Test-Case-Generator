@@ -1,0 +1,31 @@
+Case 0
+__Input__:
+MaRcElO
+Azideia
+__Output__:
+MARCELO
+azideia
+
+
+
+Case 1
+__Input__:
+Eric de Lima
+__Output__:
+ERIC DE LIMA
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+EOFError: EOF when reading a line
+
+
+
+Case 2
+__Input__:
+AninhA
+mermão
+__Output__:
+ANINHA
+mermão
+
+
+
